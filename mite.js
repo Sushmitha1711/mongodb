@@ -1,0 +1,1 @@
+ db.faculty.find({"subjects":"JAVA","gender":"F"})
